@@ -1,0 +1,56 @@
+2025-07-13 17:08:19,403  ERROR     iCloud Drive folder not found: C:\Users\crisc\iCloudDrive\iCloud~md~obsidian
+euro-book\etc\Materials\Posts
+2025-07-13 17:08:48,860  INFO      Found 6 stuck file(s)
+2025-07-13 17:08:48,861  INFO      ------------------------------------------------------------
+2025-07-13 17:08:48,861  INFO      ↻  Processing dopamine-and-pleasure.png
+2025-07-13 17:08:48,890  INFO      ✓  Fixed      dopamine-and-pleasure.png
+2025-07-13 17:08:48,890  INFO      ↻  Processing growth-mindset.png
+2025-07-13 17:08:48,910  INFO      ✓  Fixed      growth-mindset.png
+2025-07-13 17:08:48,911  INFO      ↻  Processing light-andsleep.png
+2025-07-13 17:08:48,930  INFO      ✓  Fixed      light-andsleep.png
+2025-07-13 17:08:48,930  INFO      ↻  Processing music-and-productiviy.png
+2025-07-13 17:08:48,951  INFO      ✓  Fixed      music-and-productiviy.png
+2025-07-13 17:08:48,951  INFO      ↻  Processing physiological-sigh-and-stress.png
+2025-07-13 17:08:48,971  INFO      ✓  Fixed      physiological-sigh-and-stress.png
+2025-07-13 17:08:48,971  INFO      ↻  Processing sight-and-mental-focus.png
+2025-07-13 17:08:48,992  INFO      ✓  Fixed      sight-and-mental-focus.png
+2025-07-13 17:08:48,992  INFO      ------------------------------------------------------------
+2025-07-13 17:08:48,992  INFO      Finished. iCloud should restart uploads for those files.
+2025-07-13 17:20:24,196  INFO      Found 14 stuck file(s)
+2025-07-13 17:20:24,196  INFO      ------------------------------------------------------------
+2025-07-13 17:20:24,197  INFO      ↻  Processing iCloud~md~obsidian\goals\Group Goals\Affirmation Project.md
+2025-07-13 17:20:24,217  INFO      ✓  Fixed      iCloud~md~obsidian\goals\Group Goals\Affirmation Project.md
+2025-07-13 17:20:24,218  INFO      ↻  Processing iCloud~md~obsidian\goals\Group Goals\Start Up Project.md
+2025-07-13 17:20:24,236  INFO      ✓  Fixed      iCloud~md~obsidian\goals\Group Goals\Start Up Project.md
+2025-07-13 17:20:24,236  INFO      ↻  Processing iCloud~md~obsidian\goals\Group Goals\YouTube Project.md
+2025-07-13 17:20:24,254  INFO      ✓  Fixed      iCloud~md~obsidian\goals\Group Goals\YouTube Project.md
+2025-07-13 17:20:24,254  INFO      ↻  Processing iCloud~md~obsidian\neuro-book\Product and Book\General Description.md
+2025-07-13 17:20:24,273  INFO      ✓  Fixed      iCloud~md~obsidian\neuro-book\Product and Book\General Description.md
+2025-07-13 17:20:24,273  INFO      ↻  Processing iCloud~md~obsidian\neuro-book\Product and Book\Interesting Phrases.md
+2025-07-13 17:20:24,291  INFO      ✓  Fixed      iCloud~md~obsidian\neuro-book\Product and Book\Interesting Phrases.md
+2025-07-13 17:20:24,291  INFO      ↻  Processing iCloud~md~obsidian\neuro-book\Posts\Not Ready Yet\energy-and-focus.jpeg
+2025-07-13 17:20:24,318  INFO      ✓  Fixed      iCloud~md~obsidian\neuro-book\Posts\Not Ready Yet\energy-and-focus.jpeg
+2025-07-13 17:20:24,318  INFO      ↻  Processing iCloud~md~obsidian\neuro-book\Product and Book\Parts\Concept of Dopamine 1.md
+2025-07-13 17:20:24,336  INFO      ✓  Fixed      iCloud~md~obsidian\neuro-book\Product and Book\Parts\Concept of Dopamine 1.md
+2025-07-13 17:20:24,336  INFO      ↻  Processing iCloud~md~obsidian\neuro-book\Product and Book\Parts\Concept of Dopamine 2.md
+2025-07-13 17:20:24,354  INFO      ✓  Fixed      iCloud~md~obsidian\neuro-book\Product and Book\Parts\Concept of Dopamine 2.md
+2025-07-13 17:20:24,354  INFO      ↻  Processing iCloud~md~obsidian\neuro-book\Product and Book\Parts\Concept of Dopamine 3.md
+2025-07-13 17:20:24,383  INFO      ✓  Fixed      iCloud~md~obsidian\neuro-book\Product and Book\Parts\Concept of Dopamine 3.md
+2025-07-13 17:20:24,383  INFO      ↻  Processing iCloud~md~obsidian\neuro-book\Product and Book\Parts\Dopamine and Discipline.md
+2025-07-13 17:20:24,398  INFO      ✓  Fixed      iCloud~md~obsidian\neuro-book\Product and Book\Parts\Dopamine and Discipline.md
+2025-07-13 17:20:24,398  INFO      ↻  Processing iCloud~md~obsidian\neuro-book\Product and Book\Parts\Dopamine and Happiness.md
+2025-07-13 17:20:24,418  INFO      ✓  Fixed      iCloud~md~obsidian\neuro-book\Product and Book\Parts\Dopamine and Happiness.md
+2025-07-13 17:20:24,418  INFO      ↻  Processing iCloud~md~obsidian\personal-info\Routine\Orthodontic Hygiene Routine Advices.md
+2025-07-13 17:20:24,451  INFO      ✓  Fixed      iCloud~md~obsidian\personal-info\Routine\Orthodontic Hygiene Routine Advices.md
+2025-07-13 17:20:24,451  INFO      ↻  Processing iCloud~md~obsidian\personal-info\etc\Materials\CT-scan-of-both-jaws-and-TMJ-extended-3D-cephalometry-2025-04-15.pdf
+2025-07-13 17:20:24,551  INFO      ✓  Fixed      iCloud~md~obsidian\personal-info\etc\Materials\CT-scan-of-both-jaws-and-TMJ-extended-3D-cephalometry-2025-04-15.pdf
+2025-07-13 17:20:24,551  INFO      ↻  Processing iCloud~md~obsidian\personal-info\etc\Materials\skin-care-content-101.png
+2025-07-13 17:20:24,586  INFO      ✓  Fixed      iCloud~md~obsidian\personal-info\etc\Materials\skin-care-content-101.png
+2025-07-13 17:20:24,588  INFO      ------------------------------------------------------------
+2025-07-13 17:20:24,589  INFO      Finished. iCloud should restart uploads for those files.
+2025-07-13 17:24:32,391  INFO      Found 1 stuck file(s)
+2025-07-13 17:24:32,391  INFO      ------------------------------------------------------------
+2025-07-13 17:24:32,391  INFO      ↻  Processing iCloud~md~obsidian\neuro-book\etc\Materials\Posts\7-key-principles-of-physical-and-mental-health.png
+2025-07-13 17:24:32,414  INFO      ✓  Fixed      iCloud~md~obsidian\neuro-book\etc\Materials\Posts\7-key-principles-of-physical-and-mental-health.png
+2025-07-13 17:24:32,415  INFO      ------------------------------------------------------------
+2025-07-13 17:24:32,415  INFO      Finished. iCloud should restart uploads for those files.
